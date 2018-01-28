@@ -1,7 +1,26 @@
+body {
+  font-family: 'Hind', sans-serif;
+}
+
 .headshot {
   max-width: auto;
 }
 
 .imgaligner {
   text-align: center;
+}
+
+.navbar-light .navbar-brand {
+  color: #50505f;
+}
+
+.btn-info {
+    color: black;
+    background-color: #e1e2e2;
+    border-color: #e1e2e2;
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+    background-color: white;
 }
